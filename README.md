@@ -1,1 +1,1 @@
-![image](https://imgur.com/a/qjL3NxP)
+![image](https://github.com/veryjimmy/android_lab1/blob/master/ex1.png)
