@@ -1,5 +1,6 @@
 設計一個計算 n! 的程式
-如下圖所示
+如下圖所示：
+
 ![image](https://github.com/veryjimmy/android_lab1/blob/master/ex1.png)
 
 功能如下：
